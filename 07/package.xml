@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package date-created="26/11/2019" client-version="20.0.1.5" system-version="6.0">
+  <description />
+  <system />
+  <project id="290005053" name="BNPB_NS_Common_07" workflow-step="1000" sample-date="20191114000000" target-approval-date="20191214000000" target-release-date="20191214000000">
+    <description />
+    <projectitem id="290023700" resid="290015796" />
+    <projectitem id="290023709" resid="290015801" />
+  </project>
+  <res id="290015796" name="Standard Form Layout_with_Background shaded" path="/NAB Correspondence/Common Resources/Layout/Standard Form Layout_with_Background shaded" type="T" mimeType="application/x-thunderhead-layout">
+    <description />
+    <keywords />
+    <resver id="290023700" major="1" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+  <res id="290015801" name="Standard Form Layout_Guarantor Disclosure Ack" path="/NAB Correspondence/Common Resources/Layout/Standard Form Layout_Guarantor Disclosure Ack" type="T" mimeType="application/x-thunderhead-layout">
+    <description />
+    <keywords />
+    <resver id="290023709" major="1" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+</package>
