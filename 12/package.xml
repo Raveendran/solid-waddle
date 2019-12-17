@@ -1,0 +1,14 @@
+x`<?xml version="1.0" encoding="utf-8"?>
+<package date-created="26/11/2019" client-version="20.0.1.5" system-version="6.0">
+  <description />
+  <system />
+  <project id="157739355" name="BNPB_NS_Common_12" workflow-step="1000" sample-date="20191123000000" target-approval-date="20191223000000" target-release-date="20191223000000">
+    <description />
+    <projectitem id="158971726" resid="157974204" />
+  </project>
+  <res id="157974204" name="NAB Styleset New" path="/NAB Correspondence/Common Resources/Styleset/Northstar BNPB/NAB Styleset" type="S" mimeType="application/x-thunderhead-styleset">
+    <description />
+    <keywords />
+    <resver id="158971726" major="14" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+</package>
