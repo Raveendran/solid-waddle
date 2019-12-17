@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package date-created="26/11/2019" client-version="20.0.1.5" system-version="6.0">
+  <description />
+  <system />
+  <project id="157739647" name="MergePackages1" workflow-step="1000" sample-date="20191115000000" target-approval-date="20191215000000" target-release-date="20191215000000">
+    <description />
+    <projectitem id="158964698" resid="157974204" />
+    <projectitem id="158964783" resid="157981825" />
+    <projectitem id="158963288" resid="157991454" />
+	<projectitem id="158971726" resid="157974204" />
+	<projectitem id="290023700" resid="290015796" />
+    <projectitem id="290023709" resid="290015801" />
+	 
+  </project>
+  <res id="157974204" name="NAB Styleset New" path="/NAB Correspondence/Common Resources/Styleset/Northstar BNPB/NAB Styleset" type="S" mimeType="application/x-thunderhead-styleset">
+    <description />
+    <keywords />
+    <resver id="158964698" major="10" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+	<resver id="158971726" major="14" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+  <res id="157981825" name="NorthStar Request" path="/NAB Correspondence/Common Resources/Data Model/NorthStar Request" type="B" mimeType="application/x-thunderhead-bo">
+    <description>BNPB</description>
+    <keywords />
+    <resver id="158964783" major="10" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+  <res id="157991454" name="Two Column Form Layout" path="/NAB Correspondence/Common Resources/Layout/Two Column Form Layout" type="T" mimeType="application/x-thunderhead-layout">
+    <description />
+    <keywords />
+    <resver id="158963288" major="2" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+  <res id="290015796" name="Standard Form Layout_with_Background shaded" path="/NAB Correspondence/Common Resources/Layout/Standard Form Layout_with_Background shaded" type="T" mimeType="application/x-thunderhead-layout">
+    <description />
+    <keywords />
+    <resver id="290023700" major="1" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+	</res>
+	<res id="290015801" name="Standard Form Layout_Guarantor Disclosure Ack" path="/NAB Correspondence/Common Resources/Layout/Standard Form Layout_Guarantor Disclosure Ack" type="T" mimeType="application/x-thunderhead-layout">
+    <description />
+    <keywords />
+    <resver id="290023709" major="1" minor="0" revision="0" effective-from="20010101000000" effective-to="20991231235959" workflow-step="1000" />
+  </res>
+</package>
